@@ -13,6 +13,7 @@ These projects were created as a team of several students as a self-named team k
 To run each game, simply click on the Itch.io link which will redirect you to the browser hosting for each game. if you'd like to learn more about the design process of each game and the thought that went into it. Simply view the Post Mortem Presentation links.
 
 ## Our Team
+We are a group of Students from Oakland University Majoring in Computer Science and IT.
 
 * Team Lead (Scrum Master) - Jasmin Medic ([Jazz-jpg](https://github.com/Jazz-jpg))
 * Product Owner - Jesse Brown ([Br0unn](https://github.com/br0uun))
