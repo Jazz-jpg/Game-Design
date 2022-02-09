@@ -11,7 +11,7 @@ These projects were created as a team of several students in an effort to comple
 * Developer -Madison pew
 * Developer -Sean Radatz
 * Developer -Rachel Yang
-## Game Features and Design methodologies
+## Game Features and Design methodologies, & Tools
 
 - Developed using specific frameworks, such as MDA
 - Developed in Construct 3, Gb-Studio, and Twine
