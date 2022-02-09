@@ -7,6 +7,7 @@ These projects were created as a team of several students in an effort to comple
 * Team Lead (Scrum Master) - Jasmin Medic ([Jazz-jpg](https://github.com/Jazz-jpg))
 * Product Owner - Jesse Brown
 Developers: * Justin Chorazyczewski, * Madison Pew, * Sean Radatz,  * Rachel Yang
+* Jacob Malek ([jmalek41](https://github.com/jmalek41))
 
 ## Game Features and Design methodologies
 
