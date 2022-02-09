@@ -34,7 +34,7 @@ We are a group of Students from Oakland University Majoring in Computer Science 
 
 
 
-## SuckePunch Game Design prompt
+## SuckePunch
 ![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/suckerpunch.png)
 
 Sucker Punch is a top-down pixel art souls-like adventure game. We as a team, were prompted to create a game that we find fun. and justify the specific features of the design of the game that contribute to "Fun". Developed in Construct 3 with custom Artwork and Musical Score
