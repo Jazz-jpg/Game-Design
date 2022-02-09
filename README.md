@@ -8,12 +8,12 @@ To run each game, simply click on the Itch.io link which will redirect you to th
 ## Our Team
 
 * Team Lead (Scrum Master) - Jasmin Medic ([Jazz-jpg](https://github.com/Jazz-jpg))
-* Product Owner - Jesse Brown
+* Product Owner - Jesse Brown ([Br0unn](https://github.com/br0uun))
 
 * Developer - Justin Chorazyczewski ([JChorazyczewski](https://github.com/JChorazyczewski))
-* Developer -Madison pew
-* Developer -Sean Radatz
-* Developer -Rachel Yang
+* Developer -Madison pew ([MrPew19](https://github.com/mrpew19))
+* Developer -Sean Radatz ([SRadatz](https://github.com/SRadatz))
+* Developer -Rachel Yang ([Lunar-Flare](https://github.com/Lunar-Flare))
 ## Game Features and Design methodologies, & Tools
 
 - Developed using specific frameworks, such as MDA
