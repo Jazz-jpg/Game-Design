@@ -46,7 +46,7 @@ Rat Race is a 2D maze-like platformer. The prompt for this game was to create a 
 - Post Mortem Presentation: https://www.youtube.com/watch?v=uFjgwfnxTBw
 
 ## CyberPug
-![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/ratrace.png)
+![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/cyberpug.png)
 
 CyberPug is a 2D SpeedRunners Clone. satisfying the use of a the MDA game-framework to design and construct. it was later iterated upon to give a more polished final product. Developed in construct 3, with custom artwork and musical score
 
