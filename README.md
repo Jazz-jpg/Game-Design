@@ -29,7 +29,7 @@ To run each game, simply click on the Itch.io link which will redirect you to th
 
 
 ## SuckePunch Game Design prompt
-![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/ratrace.png)
+![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/suckerpunch.png)
 
 Sucker Punch is a top-down pixel art souls-like adventure game. We as a team, were prompted to create a game that we find fun. and justify the specific features of the design of the game that contribute to "Fun". Developed in Construct 3 with custom Artwork and Musical Score
 
