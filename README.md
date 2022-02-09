@@ -2,7 +2,7 @@
 
 These projects were created as a team of several students as a self-named team known as SuperPug-Fan-Club in an effort to complete game design challenges. Each project was created within the span of a 2 week development and turn-around time. From concept, to design, to implementation. Each challenge had its own criteria and these are our final products. In addition a Post-Mortem presentation will be proovided to discuss the final design process of each game.
 
-![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/ratrace.png)
+![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/Super%20Pug%20Fan%20Club.png)
 
 ## How to Run
 To run each game, simply click on the Itch.io link which will redirect you to the browser hosting for each game. if you'd like to learn more about the design process of each game and the thought that went into it. Simply view the Post Mortem Presentation links.
