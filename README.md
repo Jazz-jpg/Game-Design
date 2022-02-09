@@ -50,6 +50,8 @@ CyberPug is a 2D SpeedRunners Clone. satisfying the use of a the MDA game-framew
 
 ## Copium
 
+([alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/copium.png))
+
 Is a side-scrolling story-based text adventure game. This game was made in an effort to create a "Serious" Game that discusses and educates game addiction to the audience in a comedic way. Developed in twine, with royalty Free images, custom musical store. and all original storyline.
 
 - Link to Game: https://jazzsw20.itch.io/copium
