@@ -2,7 +2,7 @@
 
 These projects were created as a team of several students in an effort to complete game design challenges. Each project was created within the span of a 2 week development and turn-around time. From concept, to design, to implementation. Each challenge had its own criteria and these are our final products. In addition a Post-Mortem presentation will be proovided to discuss the final design process of each game.
 
-##Our Team
+## Our Team
 
 Team Lead (Scrum Master) - Jasmin Medic
 Product Owner - Jesse Brown
