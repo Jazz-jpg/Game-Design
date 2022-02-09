@@ -2,7 +2,7 @@
 
 These projects were created as a team of several students in an effort to complete game design challenges. Each project was created within the span of a 2 week development and turn-around time. From concept, to design, to implementation. Each challenge had its own criteria and these are our final products. In addition a Post-Mortem presentation will be proovided to discuss the final design process of each game.
 
-##How to Run
+## How to Run
 To run each game, simply click on the Itch.io link which will redirect you to the browser hosting for each game. if you'd like to learn more about the design process of each game and the thought that went into it. Simply view the Post Mortem Presentation links.
 
 ## Our Team
