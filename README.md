@@ -1,6 +1,8 @@
 # Game Design Project Synopsis
 
-These projects were created as a team of several students in an effort to complete game design challenges. Each project was created within the span of a 2 week development and turn-around time. From concept, to design, to implementation. Each challenge had its own criteria and these are our final products. In addition a Post-Mortem presentation will be proovided to discuss the final design process of each game.
+These projects were created as a team of several students as a self-named team known as SuperPug-Fan-Club in an effort to complete game design challenges. Each project was created within the span of a 2 week development and turn-around time. From concept, to design, to implementation. Each challenge had its own criteria and these are our final products. In addition a Post-Mortem presentation will be proovided to discuss the final design process of each game.
+
+![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/ratrace.png)
 
 ## How to Run
 To run each game, simply click on the Itch.io link which will redirect you to the browser hosting for each game. if you'd like to learn more about the design process of each game and the thought that went into it. Simply view the Post Mortem Presentation links.
@@ -27,6 +29,7 @@ To run each game, simply click on the Itch.io link which will redirect you to th
 
 
 ## SuckePunch Game Design prompt
+![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/ratrace.png)
 
 Sucker Punch is a top-down pixel art souls-like adventure game. We as a team, were prompted to create a game that we find fun. and justify the specific features of the design of the game that contribute to "Fun". Developed in Construct 3 with custom Artwork and Musical Score
 
@@ -35,6 +38,7 @@ Sucker Punch is a top-down pixel art souls-like adventure game. We as a team, we
 
 
 ## RatRace
+![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/ratrace.png)
 
 Rat Race is a 2D maze-like platformer. The prompt for this game was to create a terrible user-experience. The game is comprised of a lot of dark-patterns and poor UX to make gameplay miserable. Developed in GB Studio with custom pixel art work.
 
@@ -42,6 +46,7 @@ Rat Race is a 2D maze-like platformer. The prompt for this game was to create a 
 - Post Mortem Presentation: https://www.youtube.com/watch?v=uFjgwfnxTBw
 
 ## CyberPug
+![alt-text](https://github.com/Jazz-jpg/Game-Design/blob/main/ratrace.png)
 
 CyberPug is a 2D SpeedRunners Clone. satisfying the use of a the MDA game-framework to design and construct. it was later iterated upon to give a more polished final product. Developed in construct 3, with custom artwork and musical score
 
