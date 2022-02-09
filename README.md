@@ -10,7 +10,7 @@ To run each game, simply click on the Itch.io link which will redirect you to th
 * Team Lead (Scrum Master) - Jasmin Medic ([Jazz-jpg](https://github.com/Jazz-jpg))
 * Product Owner - Jesse Brown
 
-* Developer - Justin Chorazyczewski
+* Developer - Justin Chorazyczewski ([JChorazyczewski](https://github.com/JChorazyczewski))
 * Developer -Madison pew
 * Developer -Sean Radatz
 * Developer -Rachel Yang
